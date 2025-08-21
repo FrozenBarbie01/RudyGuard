@@ -43,6 +43,7 @@ Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hacker
 
 ## Screenshots
 
+ 
 ![RudyGuard Demo](https://raw.githubusercontent.com/FrozenBarbie01/RudyGuard/main/assets/demo.png)
 
 ![Terminal UI](https://raw.githubusercontent.com/FrozenBarbie01/RudyGuard/main/assets/terminal.png)

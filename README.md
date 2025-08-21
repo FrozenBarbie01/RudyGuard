@@ -28,7 +28,7 @@ Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hacker
 
 ## Screenshots
 
-![Demo Screenshot](RudyGuard/assets/demo.png)
+![Demo Screenshot](https://raw.githubusercontent.com/FrozenBarbie01/RudyGuard/main/assets/rudysec1.cleaned.png)
 ---
 
 ## Installation

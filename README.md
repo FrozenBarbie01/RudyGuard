@@ -7,7 +7,7 @@ Advanced, modular network monitor for Linux/Parrot OS.  Shows live TCP/UDP conne
 
 ---
 
-## _   _____           _        _____                     _   _ 
+##  _   _____           _        _____                     _   _ 
 ## | | |  __ \         | |      / ____|                   | | | |
 ## | | | |__) |   _  __| |_   _| |  __ _   _  __ _ _ __ __| | | |
 ## | | |  _  / | | |/ _` | | | | | |_ | | | |/ _` | '__/ _` | | |
@@ -43,7 +43,7 @@ Built from scratch by **Rudy Cooper (@FrozenBarbie01)**, this tool is for hacker
 
 ## Screenshots
 
- 
+
 ![RudyGuard Demo](https://raw.githubusercontent.com/FrozenBarbie01/RudyGuard/main/assets/demo.png)
 
 ![Terminal UI](https://raw.githubusercontent.com/FrozenBarbie01/RudyGuard/main/assets/terminal.png)
